@@ -1,0 +1,7 @@
+{
+  "name": "YUGZ Pro - Social Media Mastery",
+  "description": "A high-performance social media management dashboard featuring AI Instagram automation, real-time analytics, and a glassmorphic design language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
